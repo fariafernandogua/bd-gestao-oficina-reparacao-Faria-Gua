@@ -10,7 +10,7 @@
 
 ## 1. Tema escolhido e porquê
 
-Sistema de gestão de oficina de reparação de computadores. Escolhi este tema porque é um serviço do quotidiano com processos bem definidos (receber, diagnosticar, reparar, cobrar e entregar) e porque posso desenvolvê-lo depois no projecto de Programação Web.
+**Sistema de gestão de oficina de reparação de computadores.** Escolhi este tema porque é um serviço do quotidiano com processos bem definidos (receber, diagnosticar, reparar, cobrar e entregar) e porque posso desenvolvê-lo depois no projecto de Programação Web.
 
 ## 2. Descrição do problema
 
