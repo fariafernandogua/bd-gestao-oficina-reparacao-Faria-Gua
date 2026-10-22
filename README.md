@@ -6,7 +6,7 @@
 | **Instituição** | Universidade Licungo |
 | **Docente** | Daniel Gimo_ |
 | **Data de entrega** |22 de outubro de 2026 |
-| **Vídeo de demonstração** | _(colar aqui o link do YouTube)_ |
+| **Vídeo de demonstração** | (https://youtu.be/imETfcWX_ZU) |
 
 ## 1. Tema escolhido e porquê
 
